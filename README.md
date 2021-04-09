@@ -21,7 +21,7 @@ pip install scrapy
 pip install scrapy_splash
 ```
 
-**Step3:** To test out the "scraping-challenge-1"  project, please execute the below commands. 
+**Step3:** To test out the "scraping-challenge-2"  project, please execute the below commands. 
 
 ```
 git clone https://github.com/balav92/scraping-challenge-2.git
