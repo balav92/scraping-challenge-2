@@ -1,6 +1,13 @@
 # scraping-challenge-2
 **Overview:**
 
+Referral Links: 
+https://splash.readthedocs.io/en/stable/
+https://www.zyte.com/blog/handling-javascript-in-scrapy-with-splash/
+https://github.com/scrapy-plugins/scrapy-splash
+https://docs.scrapy.org/en/latest/intro/tutorial.html
+
+
 We are going to obtain the following data from the site http://quotes.toscrape.com/js/ using Splash and Scrapy:
 
 Quote, Author Name and Tags.
