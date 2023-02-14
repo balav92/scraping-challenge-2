@@ -26,7 +26,7 @@ class QuotesToScrapeSpider(scrapy.Spider):
 			yield {
 			'Quote': text,
 			'Author': author,
-			#'Tags': tags,
+			'Tags': tags,
 			}
 			
 		#This function is to navigate to the next page
